@@ -39,17 +39,17 @@ ihr,seu
 nein,não
 habe,Eu tenho
 an,para
-bin,Eu sou.
+bin,Eu sou o número
 noch,mais
 nur,apenas
 da,de
 dir,dir
 sich,eles mesmos
 einen,um
-uns,nós
+uns,EUA
 hast,têm
 dem,o
-kann,pode
+kann,lata
 gut,bom
 auch,também
 schon,já
@@ -67,15 +67,16 @@ wird,será
 mein,meu
 bist,são
 doch,mas
-alles,todos
+alles,todos os
 weiß,branco
-keine,nenhum
+keine,não
 oder,ou
 nach,para
+s,s
 nichts,nada
 man,homem
 muss,deve
-werden, tornar-se
+werden,
 will,vontade
 ihnen,eles
 geht,vai
@@ -88,9 +89,9 @@ also,então
 bitte,por favor
 immer,sempre
 hab,Eu tenho
-warum,Porque
+warum,Por que
 vor,antes de
-los,vamos
+los,lote
 können,pode
 wieder,novamente
 sagen,diga
@@ -120,19 +121,19 @@ wissen,conhecimento
 deine,seu
 müssen,deve
 soll,deveria ser
-werde,Serei.
+werde,Serei o número
 nie,nunca
 wirklich,realmente
-hey,ei
-kein,nenhum
-viel,vários
+hey,"Ei,"
+kein,não
+viel,um lote
 weg,rota
 würde,seria
 tut,tut
 am,em
 des,de
 einfach,simplesmente
-leben,viver
+leben,ao vivo
 hatte,tinha
 zeit,tempo
 weil,porque
@@ -157,7 +158,7 @@ wurde,era
 leid,sofrimento
 na,em
 kannst,lata
-macht,Isso dá.
+macht,Isso dá
 dieser,este
 zurück,voltar
 lassen,sair
@@ -169,7 +170,7 @@ hätte,teria
 zwei,dois
 könnte,poderia ser
 genau,exatamente
-waren,havia.
+waren,havia
 zur,para
 lass,deixe
 klar,limpar
@@ -203,11 +204,11 @@ passiert,aconteceu
 dachte,pensamento
 besser,melhor
 musst,deve
-wieso,Porque
+wieso,Por que
 sir,senhor
 dieses,este
 selbst,próprio
-gehört,pertencea
+gehört,pertence a
 möchte,gostaria de
 ohne,sem
 hör,ouça
@@ -220,7 +221,7 @@ nacht,noite
 finden,encontrar
 diesen,este
 gute,bom
-wirst,Vocêserá
+wirst,Você será
 lange,longo
 natürlich,claro
 ach,ach
@@ -232,7 +233,7 @@ dort,lá
 weiter,próximo
 geben,dê
 seit,desde
-gleich,iguala
+gleich,igual a
 sagt,diz
 recht,direito
 ihren,seus
@@ -241,11 +242,11 @@ ordnung,pedido
 vom,de
 hören,ouvir
 sieht,vê
-davon,dosquais
-dafür,paraisso
+davon,dos quais
+dafür,para isso
 geh,vá
 diesem,este
-wegen,devidoa
+wegen,devido a
 hause,casa
 sollten,deveria
 mädchen,menina
@@ -286,7 +287,7 @@ bringen,trazer
 ganze,um total de
 genug,Suficiente
 scheiße,merda
-brauchen,precis ode
+brauchen,preciso de
 gegen,contra
 moment,momento
 junge,jovem
@@ -306,7 +307,7 @@ niemand,ninguém
 sofort,imediatamente
 bevor,antes de
 jahre,anos
-einmal,umavez
+einmal,uma vez
 problem,problema
 sohn,filho
 wann,quando
@@ -343,7 +344,7 @@ daran,
 ihrem,seus
 denken,pense
 könnten,poderia
-dank,graçasa
+dank,graças a
 würden,seria
 lieber,em vez disso
 fall,caso
@@ -362,14 +363,14 @@ sieh,ver
 echt,genuíno
 gib,dê
 eigentlich,na verdade
-jeden,acada
+jeden,a cada
 dad,pai
 gab,deu
 uhr,horas
-stadt,cidade
+stadt,cidade ​​
 männer,homens
 baby,bebê
-fahren,viajar
+fahren,unidade
 namen,nomes
 bekommen,recebido
 kopf,cabeça
@@ -380,14 +381,15 @@ später,mais tarde
 glück,sorte
 letzte,últimos
 freunde,amigos
-all,todosos
-darauf, baseado em
+n,n
+all,todos os
+darauf,
 ende,fim
 dr.,Dr.
 bald,em breve
 töten,matar
 dinge,coisas
-meinst,Você quer dizer?
+meinst,Você quer dizer
 toll,ótimo
 eins,um
 minuten,minutos
@@ -409,7 +411,7 @@ hätten,teria
 draußen,fora de
 kenne,Eu conheço
 fast,quase
-runter,quedade
+runter,queda de
 vorbei,passado
 treffen,reunião
 gerne,Com prazer
@@ -429,7 +431,7 @@ tochter,filha
 braucht,precisa de
 idee,ideia
 schwester,irmã
-drin,dentrode
+drin,dentro de
 ruhig,silencioso
 sah,viu
 ganzen,um total de
@@ -454,7 +456,7 @@ hört,ouve
 verstehen,entender
 spielen,reproduzir
 s.,pág.
-überhaupt,nototal
+überhaupt,no total
 teufel,diabo
 verstanden,entendido
 verloren,perdidos
@@ -485,7 +487,7 @@ läuft,
 schwer,pesado
 anders,anders
 miss,senhorita
-musste,teveque
+musste,teve que
 fünf,cinco
 wasser,água
 lässt,folhas
